@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.howzat.howzatfantasy",
+    "sha256_cert_fingerprints": ["83:EA:E8:8E:2C:1F:61:45:07:F0:0F:60:CC:3A:44:0A:B5:0B:FC:DE:60:19:B8:41:47:B6:65:84:28:4E:6D:57"]
+  }
+}]
